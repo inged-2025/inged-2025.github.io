@@ -1,9 +1,9 @@
 ---
-name: Vim Impetus Placerat Cotidieque Ad
+name: Pragmatics in ELT
 speakers:
   - Tolga Philip
 categories:
-  - Cat B
+  - Applied Linguistics
   - Talk
 ---
 
