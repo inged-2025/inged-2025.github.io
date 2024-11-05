@@ -3,7 +3,7 @@ preposition: at
 description: >-
  Bolu Abant İzzet Baysal University, Bolu, Turkey
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://inged-2025.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://inged2025.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 #theme: jekyll-theme-conference
 
