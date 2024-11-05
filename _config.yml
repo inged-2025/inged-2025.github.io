@@ -2,7 +2,7 @@ title: INGED Conference 2025
 preposition: at
 description: >-
  Bolu Abant İzzet Baysal University, Bolu, Turkey
-baseurl: "/inged-2025.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://inged-2025.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
