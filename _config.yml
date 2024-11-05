@@ -5,7 +5,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://inged-2025.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
-theme: jekyll-theme-conference
+#theme: jekyll-theme-conference
 
 # Build settings
 markdown: kramdown
@@ -182,3 +182,9 @@ conference:
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
+
+    plugins:
+        - jekyll-remote-theme
+        - jekyll-include-cache
+
+    remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
