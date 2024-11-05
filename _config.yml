@@ -1,6 +1,7 @@
-title: INGED Conference 2025
+title: INGED2025
 preposition: at
 description: >-
+ 22th Annual INGED International Conference
  Bolu Abant İzzet Baysal University, Bolu, Turkey
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://inged2025.github.io" # the base hostname & protocol for your site, e.g. https://example.com
@@ -70,15 +71,25 @@ conference:
       url: 'https://www.inged.org.tr'
     breakpoint: md
     links:
+      - name: Poster
+        relative_url: /poster/
       - name: Program
         relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
-      - name: Speakers
+     #- name: Talks
+     #  relative_url: /talks/
+      - name: Plenary
         relative_url: /speakers/
-      - name: Location
+      - name: Commitees
+        relative_url: /commitees/
+      - name: Accommodation
         relative_url: /location/
-      - name: Previous Editions
+      - name: Submission
+        relative_url: /submission/
+      - name: Registration
+        relative_url: /registration/
+      - name: Contact
+        relative_url: /contact/
+      - name: Previous Events
         menu:
           - name: 2025 (current)
             disabled: true
